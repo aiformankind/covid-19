@@ -1,7 +1,8 @@
 # covid-19
 
-#### WHO
-- [Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+#### Updates
+- [WHO: Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [WHO on LinkedIn](https://www.linkedin.com/company/world-health-organization/)
 
 #### COVID-19 Maps and Updates
 - [HealthMap](https://www.healthmap.org/covid-19/)
