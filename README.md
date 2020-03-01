@@ -2,6 +2,7 @@
 
 #### Updates
 - [World Health Organization (WHO) Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [CDC Coronavirus Disease 2019 (COVID-19) Situation Summary](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html)
 - [WHO on LinkedIn](https://www.linkedin.com/company/world-health-organization/)
 
 #### COVID-19 Maps and Updates
