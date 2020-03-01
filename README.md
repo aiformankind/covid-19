@@ -13,6 +13,7 @@
 #### Journals
 - [The New England Journal of Medicine](https://www.nejm.org/coronavirus)
 - [The Lancent: Infectious Diseases](https://www.thelancet.com/journals/laninf/home)
+- [JAMA Network: Covid-19 Collection](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
 
 #### Datasets and Analysis
 - [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
