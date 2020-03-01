@@ -18,3 +18,6 @@
 #### Datasets and Analysis
 - [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
 - [Covid-19 Analysis](https://github.com/AaronWard/covid-19-analysis)
+
+#### Join Slack Channel and Contribute to Discussion
+- [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)
