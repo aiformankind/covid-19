@@ -26,6 +26,10 @@
 - [COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30054-6/fulltext)
 - [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
 - [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
+- [Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
 
 ### Join Slack Channel for Discussion
 - [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)
+
+### Covid-19 Hackathon
+Join [Covid-19 Hackathon](https://github.com/aiformankind/covid-19-hackathon) and start contributing your ideas to help ourselves and everyone in facing Covid-19 crisis.
